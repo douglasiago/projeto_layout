@@ -1,2 +1,3 @@
-#Projeto Web HTML/CSS
-###Nesse primeiro commit tenho um estudo layout usando html e css
+# Projeto Web HTML/CSS
+### Esse layout é um estudo utilizando o básico de html e css 
+![Site de notícias](../img/prin_nc_web.jpg)
